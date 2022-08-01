@@ -1,6 +1,12 @@
 {
   "name": "vrbo",
   "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.15.0",
+    "npm" : "8.5.5"
+  },
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.2.4",
